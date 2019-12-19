@@ -1,0 +1,3 @@
+images/*
+!images/out-colourFrame.png
+!images/out-colourFrameBal.png
